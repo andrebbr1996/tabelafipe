@@ -3,9 +3,13 @@ Aplicação Java que consulta a Tabela Fipe para obter informações sobre veíc
 
 # Tecnologias e Ferramentas
 Java 17: Linguagem de programação usada para desenvolver a aplicação.
+
 Spring Boot: Framework para simplificar a configuração e execução da aplicação.
+
 Jackson: Biblioteca para manipulação de JSON e conversão entre JSON e objetos Java.
+
 Chamadas HTTP: Utilizado para realizar requisições HTTP à API da Tabela Fipe.
+
 Maven: Ferramenta para gerenciamento de dependências e construção do projeto.
 
 # Execução
